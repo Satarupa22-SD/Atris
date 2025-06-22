@@ -1,4 +1,4 @@
-# atris
+# Atris
 
 A Python library for seamless integration and ensembling of multiple machine learning models for classification, regression, and anomaly detection tasks.
 
