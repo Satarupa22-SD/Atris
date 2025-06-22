@@ -1,0 +1,6 @@
+scikit-learn
+numpy
+scipy
+xgboost  # optional, for example usage
+lightgbm  # for LGBMClassifier/Regressor
+catboost  # for CatBoostClassifier/Regressor 
